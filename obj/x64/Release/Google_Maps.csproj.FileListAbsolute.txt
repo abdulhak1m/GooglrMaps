@@ -1,0 +1,10 @@
+G:\Проекты C#\Google_Maps\bin\x64\Release\Google_Maps.exe.config
+G:\Проекты C#\Google_Maps\bin\x64\Release\Google_Maps.exe
+G:\Проекты C#\Google_Maps\bin\x64\Release\Google_Maps.pdb
+G:\Проекты C#\Google_Maps\obj\x64\Release\Google_Maps.csprojAssemblyReference.cache
+G:\Проекты C#\Google_Maps\obj\x64\Release\Google_Maps.Form1.resources
+G:\Проекты C#\Google_Maps\obj\x64\Release\Google_Maps.Properties.Resources.resources
+G:\Проекты C#\Google_Maps\obj\x64\Release\Google_Maps.csproj.GenerateResource.cache
+G:\Проекты C#\Google_Maps\obj\x64\Release\Google_Maps.csproj.CoreCompileInputs.cache
+G:\Проекты C#\Google_Maps\obj\x64\Release\Google_Maps.exe
+G:\Проекты C#\Google_Maps\obj\x64\Release\Google_Maps.pdb
